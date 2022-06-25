@@ -1,0 +1,2 @@
+# crudtask
+django crud task
